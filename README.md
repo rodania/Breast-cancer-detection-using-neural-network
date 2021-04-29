@@ -38,4 +38,5 @@ A neural network consists of:
 ### Results
 The prediction accuracy of the network on the test dataset is 99.3%. With an average accuracy of 91% and valid accuracy of 96%. The loss chart and the Confusion Matrix of the Model are shown below.
 
-<img src="./video.gif">
+<img src="./images/confusion_matrix.png">
+<img src="./images/loss_chart.png">
